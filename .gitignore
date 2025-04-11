@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Marp CLI output files
+# *.html
+*.pdf
+*.pptx
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# System files
+Thumbs.db
