@@ -20,4 +20,4 @@ npx marp docs/ElCosmosComputacionalPrimeraParte.md --html -o docs/index.html
 
 ## Ver la presentación
 
-[De clic aquí para ver en el navegador de internet](https://guivaloz.github.io/presentacion-el-cosmos-computacional/)
+[De clic aquí para ver la presentación](https://guivaloz.github.io/presentacion-el-cosmos-computacional-primera-parte/)
